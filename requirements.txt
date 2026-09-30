@@ -1,3 +1,6 @@
-python-telegram-bot==21.7
-Pillow
 Flask
+python-telegram-bot
+Pillow
+rembg
+onnxruntime
+pytesseract
